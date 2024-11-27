@@ -19,9 +19,8 @@
     <div class="coord">
     <ul class="ajustInfos" style="list-style: none">
       <li class="centerText mb-2 "><img src="assets/icones/brown-open-36.png" loading="lazy" alt="horaires d'ouverture"  width="36" height="36" class="me-3"></li>
-      <li class="centerText">Du lundi au vendredi à partir de 8h00</li>
+      <li class="centerText">Du lundi au vendredi dès 10h00</li>
       <div class="centerText mt-2">
-        <div class="">
           <div class="centerText ">
             <li><img src="assets/icones/brown-wifi-36.png" loading="lazy" alt="wifi dédié"  width="36" height="36" class="me-3"></li>
             <li class="me-1 mt-1">Wifi dédié</li>
@@ -32,7 +31,6 @@
             <li><img src="assets/icones/brown-cle-36.png" loading="lazy" alt="Privatisation"  width="36" height="36" class="me-3"></li>
             <li class="me-2 mt-1">Privatisation</li>
           </div>
-        </div>
       </div>
     </ul>
      </div>

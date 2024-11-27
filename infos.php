@@ -9,11 +9,11 @@
         <div class="col-md-6 centerText mt-3">
             <h3 class="varH3 me-3">Horaires d'ouverture</h3>
             <ul class="me-5" style="list-style: none">
-                <li class="mt-2">Lundi : 8h00 à 15h00</li>
-                <li class="mt-2">Mardi : 8h00 à 15h00 - 17h00 à 20h00</li>
-                <li class="mt-2">Mercredi : 8h00 à 15h00 - 17h00 à 20h00</li>
-                <li class="mt-2">Jeudi : 8h00 à 15h00 - 17h00 à 21h00</li>
-                <li class="mt-2" >Vendredi : 8h00 - 22h00</li>
+                <li class="mt-2">Lundi : 10h00 à 15h00</li>
+                <li class="mt-2">Mardi : 10h00 à 15h00 - 17h00 à 20h00</li>
+                <li class="mt-2">Mercredi : 10h00 à 15h00 - 17h00 à 20h00</li>
+                <li class="mt-2">Jeudi : 10h00 à 15h00 - 17h00 à 21h00</li>
+                <li class="mt-2" >Vendredi : 10h00 - 22h00</li>
             </ul>
             <img src="/assets/img/LOGO M-128.png" loading="lazy" alt="logo de la brasserie Mamma Mia" class="mt-5"/>
             

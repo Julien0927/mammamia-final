@@ -7,7 +7,8 @@
                         <h3 class="centerText" style="color: #CDB987">Adresse</h3>
                         <ul>
                             <li class="centerText">7a rue Alain Colas</li>
-                            <li class="centerText">ZI Périgny 4 chevaliers 17180 Périgny</li>
+                            <li class="centerText">ZI Périgny 4 chevaliers</li>
+                            <li class="centerText"> 17180 Périgny</li>
                             <li class="centerText">Situé entre Incidence Sailing et Eco-Batterie</li>
                         </ul>
                     </div>
@@ -23,13 +24,13 @@
                     <div class="col-sm-4 col-md-3 item">
                         <h3 class="centerText" style="color: #CDB987">Horaires</h3>
                         <ul class="centerText">
-                            <li >Du lundi au vendredi à partir 8h00</li>
+                            <li >Du lundi au vendredi dès 10h00</li>
                             <li><a href="infos.php">Tous les horaires</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 centerText ">
                         <a href="https://www.instagram.com/mammamia_lr/" ><img src="assets/icones/instagram.svg" loading="lazy" alt="lien vers Instagram"/></a>
-                        <a href="#"><img src="assets/icones/facebook.svg" loading="lazy" alt="Lien vers Facebook"/></a>
+                        <a href="https://www.facebook.com/profile.php?id=61567662687991"><img src="assets/icones/facebook.svg" loading="lazy" alt="Lien vers Facebook"/></a>
                         <p class="copyright">Mamma Mia-LR © 2024</p>
                         <p class="copyright"><a href="https://julien-dev.fr/" class="creation"><img src="/assets/icones/BorderDev-25.png" loading="lazy" alt="Société de création du  site BorderDev" class="me-2"/>BorderDev</a></p>
                     </div>

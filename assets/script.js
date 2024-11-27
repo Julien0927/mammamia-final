@@ -24,4 +24,14 @@ document.addEventListener("DOMContentLoaded", function() {
       subtitle.innerHTML = 'RESTAURANT & AFTERWORK';
     }
   });
+
+  // Données du menu //
+
+  document.querySelectorAll('[data-target]').forEach(element => {
+    element.addEventListener('click', () => {
+      const targetId = element.getAttribute('data-target');
+      const targetElement = document.getElementById(targetId);
+      targetElement.classList.toggle('show'); // Alterne entre affiché et masqué
+    });
+  });
   
