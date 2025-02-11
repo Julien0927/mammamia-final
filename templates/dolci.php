@@ -1,5 +1,5 @@
 <h4>DOLCI
-        <img id="toggleCollapseDolci" data-target="collapseContentDolci" src="/assets/icones/tri-décroissant-30.png" alt="toggle collapse" style="cursor: pointer;">
+        <img class="toggle-icon" id="toggleCollapseDolci" data-target="collapseContentDolci" src="/assets/icones/tri-décroissant-30.png" alt="toggle collapse" style="cursor: pointer;" loading="lazy">
     </h4> 
     <div class="goldLine"></div>
     <div id="collapseContentDolci" class="img-fluid collapse">
@@ -44,7 +44,7 @@
                 </div>
             </div>
             <div class="d-flex flex-column col-12 col-md-4 mt-2">
-                <img src="/assets/img/tiramisu.jpg"  class="img-fluid photoPasta" alt="dessert">
-                <img src="/assets/img/dolci.jpg"  class="img-fluid photoPasta mt-3" alt="dessert">
+                <img src="/assets/img/tiramisu.webp"  class="img-fluid photoPasta" alt="dessert" loading="lazy">
+                <img src="/assets/img/dolci.webp"  class="img-fluid photoPasta mt-3" alt="dessert" loading="lazy">
             </div>
         </div>

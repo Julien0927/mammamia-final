@@ -2,7 +2,7 @@
     require_once 'header.php';
     require_once 'templates/nav.php';
 ?>
-<h1 class="gold spaceTitleMenu text-center mb-5"><img src="assets/img/LOGO M-128.png" rel="icon">enus</h1>
+<h1 class="gold spaceTitleMenu text-center mb-5"><img src="assets/img/LOGO M-128.png" rel="icon" alt="Logo restaurant" loading="lazy">enus</h1>
 
 <section class="menuCard">
     <?php

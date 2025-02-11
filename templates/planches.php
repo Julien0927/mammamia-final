@@ -1,6 +1,6 @@
 <h4>LES PLANCHES
         <span class="small-text"> ET AUTRES À PARTAGER</span>
-        <img id="toggleCollapse" data-target="collapseContent" src="/assets/icones/tri-décroissant-30.png" alt="toggle collapse" style="cursor: pointer;">
+        <img class="toggle-icon" id="toggleCollapse" data-target="collapseContent" src="/assets/icones/tri-décroissant-30.png" alt="toggle collapse" style="cursor: pointer;" loading="lazy">
     </h4>
     <div class="goldLine"></div>
     <div id="collapseContent" class="collapse">

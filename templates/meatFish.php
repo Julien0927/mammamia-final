@@ -1,6 +1,6 @@
 <h4>LATO BIRRERIA
         <span class="small-text"> LES VIANDES ET LES POISSONS</span>
-        <img id="toggleCollapseMeatFish" data-target="collapseContentMeatFish" src="/assets/icones/tri-décroissant-30.png" alt="toggle collapse" style="cursor: pointer;">
+        <img class="toggle-icon" id="toggleCollapseMeatFish" data-target="collapseContentMeatFish" src="/assets/icones/tri-décroissant-30.png" alt="toggle collapse" style="cursor: pointer;" loading="lazy">
     </h4> 
     <div class="goldLine"></div>
     <div id="collapseContentMeatFish" class="collapse">
@@ -68,9 +68,9 @@
                 </div>
             </div>
             <div class="d-flex flex-column col-12 col-md-4 mt-2">
-                    <img src="/assets/img/viande.jpg" alt="plat viande" class="img-fluid photoMeatFish mt-2">
-                    <img src="/assets/img/meal.jpg" alt="plat viande" class="img-fluid photoMeatFish mt-3">
-                    <img src="/assets/img/fishFood.webp" alt="plat de poisson" class="img-fluid photoMeatFish mt-3">
+                    <img src="/assets/img/viande.webp" alt="plat viande" class="img-fluid photoMeatFish mt-2" loading="lazy">
+                    <img src="/assets/img/meal.webp" alt="plat viande" class="img-fluid photoMeatFish mt-3" loading="lazy">
+                    <img src="/assets/img/fishFood.webp" alt="plat de poisson" class="img-fluid photoMeatFish mt-3" loading= "lazy">
             </div>
         </div>
     </div>

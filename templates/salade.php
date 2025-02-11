@@ -1,12 +1,12 @@
 <h4>LATO BIRRERIA
         <span class="small-text"> LES SALADES</span>
-        <img id="toggleCollapseSalad" data-target="collapseContentSalad" src="/assets/icones/tri-décroissant-30.png" alt="toggle collapse" style="cursor: pointer;">
+        <img class="toggle-icon" id="toggleCollapseSalad" data-target="collapseContentSalad" src="/assets/icones/tri-décroissant-30.png" alt="toggle collapse" style="cursor: pointer;" loading="lazy">
     </h4> 
     <div class="goldLine"></div>
     <div id="collapseContentSalad" class="img-fluid collapse">
         <div class="row mt-2">
             <div class="d-flex flex-column col-12 col-md-4 mt-2">
-                <img src="/assets/img/salade.jpg"  class="img-fluid photoPasta" alt="salade">
+                <img src="/assets/img/salade.webp"  class="img-fluid photoPasta" alt="salade" loading="lazy">
             </div>
             <div class="d-flex flex-column col-12 col-md-4 mt-2">
                 <div class="mb-3">

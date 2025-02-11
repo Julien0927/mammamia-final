@@ -1,11 +1,11 @@
 <h4>PIZZE 
-        <img id="toggleCollapsePizze" data-target="collapseContentPizze" src="/assets/icones/tri-décroissant-30.png" alt="toggle collapse" style="cursor: pointer;">
+        <img class="toggle-icon" id="toggleCollapsePizze" data-target="collapseContentPizze" src="/assets/icones/tri-décroissant-30.png" alt="toggle collapse" style="cursor: pointer;">
 </h4>
     <div class="goldLine"></div>
     <div id="collapseContentPizze" class="collapse">
         <div class="row mt-2">
             <div class="d-flex flex-column col-12 col-md-4 mt-2">
-                <img src="/assets/img/pizzaMamma.jpg" class="photoPizza img-fluid mb-3" alt="Pizza">
+                <img src="/assets/img/pizzaMamma.webp" class="photoPizza img-fluid mb-3" alt="Pizza" loading="lazy">
                 <div>    
                     <h3 class="recipeTitle">SALMONE</h3>
                     <h3 class="recipeTitle">16,00 €</h3>

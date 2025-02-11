@@ -14,6 +14,16 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   });
   
+  //Faire pivoter l'icône de la flèche
+  const toggleIcons = document.querySelectorAll(".toggle-icon");
+
+  // Ajoute ou retire la classe "rotated" au clic
+  toggleIcons.forEach(icon => {
+    icon.addEventListener("click", () => {
+      icon.classList.toggle("rotated"); // Alterne la classe "rotated"
+    });
+  });
+
   window.addEventListener('resize', function() {
     // Recalcule à chaque redimensionnement d'écran
     if (window.innerWidth <= 768) {

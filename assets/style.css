@@ -624,6 +624,14 @@ header {
   font-weight: 700;
 }
 
+.toggle-icon {
+  transition: transform 0.5s ease; /* Transition fluide pour la rotation */
+}
+
+.toggle-icon.rotated {
+  transform: rotate(180deg); /* Rotation à 180 degrés */
+}
+
 
 /*Animation page en cours*/
 /*.dots span {
